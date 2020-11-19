@@ -15,9 +15,9 @@ npm start
 ###    - Alterar apenas o construtor da classe;
 
 
-#### O código de cada questão está dentro da pasta "questoes" com seu respectivo nome.
+#### O código de cada questão está dentro da pasta "questoes" com seus respectivo nomes.
 
 
 
 
-# OBS: o código doi escrito em nodeJs na versão 13.5.0
+# OBS: o código foi escrito em nodeJs na versão 13.5.0
